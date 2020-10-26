@@ -25,3 +25,5 @@ Prosta tabelka:
 | Daty | EFGH |
 | --- | --- |
 | 2091-2302 | tu jest drugi wpis u jest drugi wpis u jest drugi wpis u jest drugi wpis v u jest drugi wpis u jest drugi wpis v u jest drugi wpis |
+
+[Przykład](https://github.com/LukaszKulacz/CV/blob/main/ex1.cpp)
