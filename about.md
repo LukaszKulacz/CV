@@ -1,3 +1,1 @@
-layout: page
-title: "Kontakt"
-permalink: /about/
+[main page](https://github.com/LukaszKulacz/CV)
