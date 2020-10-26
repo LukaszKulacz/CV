@@ -22,6 +22,6 @@ Task list:
 
 Prosta tabelka:
 
-| ABCD | EFGH |
+| Daty | EFGH |
 | --- | --- |
-| Tu jest piewrszy wpis | tu jest drugi wpis |
+| 2091-2302 | tu jest drugi wpis u jest drugi wpis u jest drugi wpis u jest drugi wpis v u jest drugi wpis u jest drugi wpis v u jest drugi wpis |
