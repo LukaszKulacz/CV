@@ -1,1 +1,1 @@
-[main page](https://github.com/LukaszKulacz/CV)
+[main page](https://lukaszkulacz.github.io/CV)
