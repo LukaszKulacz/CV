@@ -21,6 +21,7 @@ Task list:
 - [ ] Third Task
 
 Prosta tabelka:
-ABCD | EFGH
----- | ----
-Tu jest piewrszy wpis | tu jest drugi wpis
+
+| ABCD | EFGH |
+| --- | --- |
+| Tu jest piewrszy wpis | tu jest drugi wpis |
